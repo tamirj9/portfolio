@@ -34,7 +34,7 @@ Completed the **SEO Fundamentals Course** offered by Semrush Academy. This cours
 Obtained the **Google Analytics Certificate** from Google Analytics Academy, which helped me master data-driven decision-making, website performance tracking, and key insights into user behavior through analytics.
 
 ## 🚀 Featured Projects:
-- [**Data analysis using AWS**](https://github.com/tamirj9/AWS)
+- [**Data analysis using AWS**](https://tamirj9.github.io/AWS_Design/)
 - [**Visualizing sales data insights with Tableau**](https://tamirj9.github.io/Data-analyst-Tamir/)
 
 ## 🌐 Let's Connect:
