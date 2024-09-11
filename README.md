@@ -35,7 +35,7 @@ Obtained the **Google Analytics Certificate** from Google Analytics Academy, whi
 
 ## 🚀 Featured Projects:
 - [**Project 1**](link): Data analysis using AWS.
-- [**Project 2**](link): Visualizing sales data insights with Tableau.
+- [**Project 2**](https://tamirj9.github.io/Data-analyst-Tamir/): Visualizing sales data insights with Tableau.
 
 ## 🌐 Let's Connect:
 - [My LinkedIn](https://www.linkedin.com/in/tamir-jargalsaikhan/)
