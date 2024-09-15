@@ -33,6 +33,17 @@ Completed the **SEO Fundamentals Course** offered by Semrush Academy. This cours
 
 Obtained the **Google Analytics Certificate** from Google Analytics Academy, which helped me master data-driven decision-making, website performance tracking, and key insights into user behavior through analytics.
 
+## 🤖 Become an AI-Powered Marketer by Semrush Academy
+<img width="663" alt="Screenshot 2024-09-15 at 10 57 50 AM" src="https://github.com/user-attachments/assets/b862d13d-41a1-4b47-a42a-1a0e2fac3d13">
+
+I have completed the **Become an AI-Powered Marketer** course from Semrush Academy, where I gained advanced skills in utilizing AI tools to enhance digital marketing strategies. This course covered key areas such as leveraging AI for data-driven decision-making, optimizing marketing campaigns, and improving overall marketing efficiency.
+
+## ☁️ AWS Academy Cloud Foundations
+<img width="684" alt="Screenshot 2024-09-15 at 10 58 19 AM" src="https://github.com/user-attachments/assets/c68f7ef4-f4d5-4716-a336-ca2001241c7b">
+
+I have completed the **AWS Academy Cloud Foundations** course, which provided me with a solid understanding of cloud computing concepts and AWS services. Throughout the course, I learned about cloud infrastructure, security, networking, and key AWS services, equipping me with the foundational skills needed to implement and manage cloud solutions effectively.
+
+
 ## 🚀 Featured Projects:
 - [**Data analysis using AWS**](https://tamirj9.github.io/AWS_Design/)
 - [**Visualizing sales data insights with Tableau**](https://tamirj9.github.io/Data-analyst-Tamir/)
